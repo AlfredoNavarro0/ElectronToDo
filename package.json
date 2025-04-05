@@ -1,0 +1,27 @@
+{
+  "name": "electrontodo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfredoNavarro0/ElectronToDo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlfredoNavarro0/ElectronToDo/issues"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  },
+  "homepage": "https://github.com/AlfredoNavarro0/ElectronToDo#readme",
+  "devDependencies": {
+    "electron": "^35.1.4"
+  }
+}
